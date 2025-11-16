@@ -1,5 +1,7 @@
 
 # OPENING--AND-CLOSING
+# Name: V DIVYASHREE
+# Register Number: 212223230051
 ## Aim:
 To implement Opening and Closing using Python and OpenCV.
 
